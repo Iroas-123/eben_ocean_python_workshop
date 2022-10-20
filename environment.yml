@@ -1,16 +1,7 @@
-name: pangeo
+name: workshop-env
 channels:
- - conda-forge
- - nodefaults
+  - conda-forge
 dependencies:
- - matplotlib-base
- - nb_conda_kernels
- - nbstripout
- - netcdf4
- - numpy
- - pandas
- - xarray
- - xarrayutils
- - xarray_leaflet
- - xarray-spatial
- - xcape
+  - numpy
+  - matplotlib
+  - pandas
