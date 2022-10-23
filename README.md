@@ -1,5 +1,5 @@
-# eben_ocean_python_workshop
-This repository is for Even Nyadjro's python workshop in Ghana. 
+# Python Workshop
+This repository is for Eben Nyadjro's python workshop in Ghana. 
 
 Click the button below to open these files in a Binder environment:
 
